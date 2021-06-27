@@ -16,11 +16,13 @@ footer{
     padding-bottom:.8rem;
     margin-bottom:.8rem;
     cursor: pointer;
+    list-style-type: none;
 }
 
 .links-container{
     width: 190px;
     margin-right: 50px;
+    font-weight: bold;
 }
 
 footer h3{
